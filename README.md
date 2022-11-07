@@ -49,7 +49,7 @@
  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscod,eclipse" />
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse" />
   </a>
 </p>
 
